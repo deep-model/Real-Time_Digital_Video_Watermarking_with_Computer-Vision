@@ -1,4 +1,4 @@
-# Real-Time_Digital_Video_Watermarking_with_Computer-Visions
+# Real-Time Digital Video Watermarking with Computer-Vision
 
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 
